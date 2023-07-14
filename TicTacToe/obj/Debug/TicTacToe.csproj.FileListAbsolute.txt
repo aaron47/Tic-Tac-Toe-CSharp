@@ -1,0 +1,17 @@
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\App.baml
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Aaron\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
